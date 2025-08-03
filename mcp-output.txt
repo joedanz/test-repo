@@ -1,0 +1,18 @@
+MCP integration gap: Tools connected at VibeKit level but not available to agent
+
+Available Tools:
+- Task
+- Bash
+- Glob
+- Grep
+- LS
+- exit_plan_mode
+- Read
+- Edit
+- MultiEdit
+- Write
+- NotebookRead
+- NotebookEdit
+- WebFetch
+- TodoWrite
+- WebSearch
